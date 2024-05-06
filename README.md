@@ -51,7 +51,6 @@ Remember that accurate diabetes prediction models require quality data, continuo
 
 *Disclaimer: The information provided here is for educational purposes only. Always consult a healthcare professional for personalized medical advice.*
 
-Source: Conversation with Bing, 6/5/2024
 (1) Diabetes Prediction Using Machine Learning - Analytics Vidhya. https://www.analyticsvidhya.com/blog/2022/01/diabetes-prediction-using-machine-learning/.
 (2) Diabetes Prediction Using Machine Learning: A Detailed Insight - Springer. https://link.springer.com/chapter/10.1007/978-3-031-50993-3_13.
 (3) Diabetes Prediction using Machine Learning — Python - Medium. https://medium.com/geekculture/diabetes-prediction-using-machine-learning-python-23fc98125d8.
